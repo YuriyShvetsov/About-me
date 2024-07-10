@@ -1,6 +1,6 @@
 # Обо мне
 ## Меня зовут Швецов Юрий. Я - начинающий веб-разработчик.
-![] (img/shvetsov_yg.jpg)
+![shvetsov_yg(300)](https://github.com/YuriyShvetsov/About-me/assets/174881654/fa01efb8-f31a-4793-bdd2-74c5819e5d58)
 
 ### В разработке использую технологии:
 - HTML
